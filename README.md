@@ -1,7 +1,5 @@
 # Next-Auth with Prisma
 
-## Next-Auth와 Prisma를 해봅시다.
-
 ### 1. 먼저 필요한 패키지를 설치해줍시다.
 
 ```sh
